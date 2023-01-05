@@ -14,7 +14,7 @@ public:
             return -1;
 
             if(freq%3==0){
-            rounds=rounds+freq/3;
+            rounds=rounds+freq/3;LC_DC
             }
             else if(freq%3==1){
                 int tv=freq/3;
